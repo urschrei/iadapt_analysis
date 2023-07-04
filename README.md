@@ -16,7 +16,7 @@ In step 2, pre- and post question data are graphed in small multiples according 
 Start time and response ID are not used in this analysis but are retained for data quality and assurance reasons, allowing them to be matched with the retained read-only survey response data if necessary.
 
 # Installation
-If you wish to reproduce this analysis, install the requisite python packages from [requirements.txt], then open the [notebook](iadapt_geoforum.ipynb) using Jupyter.
+If you wish to reproduce this analysis, install the requisite python packages from [requirements.txt](requirements.txt), then open the [notebook](iadapt_geoforum.ipynb) using Jupyter.
 
 # Software used in this analysis
 
