@@ -1,0 +1,6 @@
+jupyterlab==4.0.2
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.0.2
+python-dateutil==2.8.2
+statsmodels==0.14.0

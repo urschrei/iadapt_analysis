@@ -19,6 +19,8 @@ Start time and response ID are not used in this analysis but are retained for da
 
 Caswell, T. A., Lee, A., Andrade, E. S. de, Droettboom, M., Hoffmann, T., Klymak, J., Hunter, J., Firing, E., Stansby, D., Varoquaux, N., Nielsen, J. H., Root, B., May, R., Gustafsson, O., Elson, P., Seppänen, J. K., Lee, J.-J., Dale, D., hannah, … Moad, C. (2023). matplotlib/matplotlib: REL: v3.7.1. Zenodo. https://doi.org/10.5281/zenodo.7697899
 
+Granger, B. E., & Pérez, F. (2021). Jupyter: Thinking and Storytelling With Code and Data. Computing in Science & Engineering, 23(2), 7–14. https://doi.org/10.1109/MCSE.2021.3059263
+
 Harris, C. R., Millman, K. J., Walt, S. J. van der, Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N. J., Kern, R., Picus, M., Hoyer, S., Kerkwijk, M. H. van, Brett, M., Haldane, A., Río, J. F. del, Wiebe, M., Peterson, P., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585(7825), 357–362. https://doi.org/10.1038/s41586-020-2649-2
 
 Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55
