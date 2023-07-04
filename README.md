@@ -15,6 +15,9 @@ In step 2, pre- and post question data are graphed in small multiples according 
 ### QA and Data Integrity
 Start time and response ID are not used in this analysis but are retained for data quality and assurance reasons, allowing them to be matched with the retained read-only survey response data if necessary.
 
+# Installation
+If you wish to reproduce this analysis, install the requisite python packages from [requirements.txt], then open the [notebook](iadapt_geoforum.ipynb) using Jupyter.
+
 # Software used in this analysis
 
 Caswell, T. A., Lee, A., Andrade, E. S. de, Droettboom, M., Hoffmann, T., Klymak, J., Hunter, J., Firing, E., Stansby, D., Varoquaux, N., Nielsen, J. H., Root, B., May, R., Gustafsson, O., Elson, P., Seppänen, J. K., Lee, J.-J., Dale, D., hannah, … Moad, C. (2023). matplotlib/matplotlib: REL: v3.7.1. Zenodo. https://doi.org/10.5281/zenodo.7697899
