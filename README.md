@@ -2,6 +2,9 @@
 ## Author
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4379-2450" href="https://orcid.org/0000-0003-4379-2450" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Stephan Hügel</a></div>
 
+## DOI
+[![DOI](https://zenodo.org/badge/662217973.svg)](https://zenodo.org/badge/latestdoi/662217973)
+
 ## Introduction
 This [notebook](iadapt_geoforum.ipynb) contains the data analysis of pre- and post survey results relating to phase I of the iAdapt project.
 
