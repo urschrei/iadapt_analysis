@@ -13,7 +13,7 @@ In step 1, Likert data from the results are first converted to ordinal values, t
 In step 2, pre- and post question data are graphed in small multiples according to their capability grouping, for further discussion.
 
 ### QA and Data Integrity
-Start time and response ID are not used in this analysis but are retained for data quality and assurance reasons, allowing them to be matched with the retained read-only survey response data if necessary.
+`Start time` and response `ID` are not used in this analysis but are retained for data quality and assurance reasons, allowing them to be matched with the retained read-only survey response data if necessary.
 
 # Installation
 If you wish to reproduce this analysis, install the requisite python packages from [requirements.txt](requirements.txt), then open the [notebook](iadapt_geoforum.ipynb) using Jupyter.
