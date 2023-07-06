@@ -6,7 +6,7 @@
 [![DOI](https://zenodo.org/badge/662217973.svg)](https://zenodo.org/badge/latestdoi/662217973)
 
 ## Introduction
-This [notebook](iadapt_geoforum.ipynb) contains the data analysis of pre- and post survey results relating to phase I of the iAdapt project.
+This [notebook](iadapt_geoforum.ipynb) contains the data analysis of pre- and post survey results relating to phase I of the iAdapt project. The notebook is also available as a [PDF](iadapt_geoforum.pdf].
 
 In step 1, Likert data from the results are first converted to ordinal values, then analysed using the Mann-Whitney U test. Statistically significant question results have a Cohen's d effect assigned.
 
