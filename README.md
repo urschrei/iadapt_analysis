@@ -16,7 +16,13 @@ In step 2, pre- and post question data were graphed in small multiples according
 `Start time` and response `ID` were not used in this analysis but are retained for data quality and assurance reasons, allowing them to be matched with the retained read-only survey response data if necessary.
 
 # Installation
-If you wish to reproduce this analysis, install the requisite python packages from [requirements.txt](requirements.txt), then open the [notebook](iadapt_geoforum.ipynb) using Jupyter.
+To reproduce this analysis, install [uv](https://docs.astral.sh/uv/), then run the following command in this directory:
+
+```shell
+uv run jupyter lab iadapt_geoforum.ipynb
+```
+
+uv installs the dependencies from [uv.lock](uv.lock) into a virtual environment before it opens the notebook.
 
 # Software used in this analysis
 
